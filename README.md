@@ -2,7 +2,7 @@
 
 ``
 
-<em> Software Developer, passionate about technology and Chess ♘.</em>
+<em> Software Developer / DevOps, passionate about technology and Chess ♘.</em>
 
 
 ## Tech Stack ⌨
