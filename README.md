@@ -5,7 +5,7 @@
 <em> Software Developer / DevOps, passionate about technology and Chess ♘.</em>
 
 
-## Tech Stack ⌨
+## Tech ⌨
 - Python, Django ⭐
 - PHP, Laravel ⭐
 - Mobile Development, Java Android, React Native ⭐
