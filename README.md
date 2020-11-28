@@ -1,16 +1,21 @@
-### Hi there 👋
+# Jose Luis Cardenas 👋
 
-<!--
-**jluispcardenas/jluispcardenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``
 
-Here are some ideas to get you started:
+<em> Software Developer, passionate about technology and Chess ♘.</em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech Stack ⌨
+- Python, Django ⭐
+- PHP, Laravel ⭐
+- Mobile Development, Java Android, React Native ⭐
+- Javascript and NodeJs
+- Front-End React, VUE
+- SQL and Relational Databases
+- MongoDB, Redis
+- Linux, AWS and Docker
+- Knowledge in Hive, Athena and Big data workflows
+
+
+<br />
+<p>
