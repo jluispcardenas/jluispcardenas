@@ -7,14 +7,14 @@
 
 ## Tech ⌨
 - Python, Django ⭐
+- Knowledge in Hive, Athena and Big Data workflows
+- Linux, AWS and Docker
 - PHP, Laravel ⭐
 - Mobile Development, Java Android, React Native ⭐
 - Javascript and NodeJs
 - Front-End React, VUE
 - SQL and Relational Databases
 - MongoDB, Redis
-- Linux, AWS and Docker
-- Knowledge in Hive, Athena and Big data workflows
 
 
 <br />
