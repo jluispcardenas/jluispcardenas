@@ -17,7 +17,7 @@
 - MongoDB, Redis
 
 
-### 📚 Latest Medium Story
+### Latest Medium Story 📚 
 <!-- MEDIUM-STORY-LIST:START -->
 - [CodeExpert](https://jluis-pcardenas.medium.com/codeexpert-7780db40d760?source=rss-36235c942fa9------2)
 - [Javascript Bot for Twitter](https://jluis-pcardenas.medium.com/javascript-bot-for-twitter-b5b744788f09?source=rss-36235c942fa9------2)
