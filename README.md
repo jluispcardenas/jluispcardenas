@@ -16,3 +16,7 @@
 - SQL and Relational Databases
 - MongoDB, Redis
 
+
+### 📚 Latest Medium Story
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
