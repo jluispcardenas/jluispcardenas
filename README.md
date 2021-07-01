@@ -2,7 +2,7 @@
 
 ``
 
-<em> Software Developer / DevOps, passionate about technology and Chess ♘.</em>
+<em> Software Developer / DevOps / Data Science, passionate about technology and Chess ♘.</em>
 
 
 ## Tech ⌨
@@ -16,6 +16,3 @@
 - SQL and Relational Databases
 - MongoDB, Redis
 
-
-<br />
-<p>
