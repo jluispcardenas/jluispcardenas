@@ -1,6 +1,6 @@
 # Jose Luis Cardenas 👋
 
-<em> Software Developer / DevOps / Data Science, passionate about technology and Chess ♘.</em>
+<em> Software Developer / Data Scientist, passionate about technology and Chess ♘.</em>
 
 
 ## Tech ⌨
