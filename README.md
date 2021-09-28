@@ -17,9 +17,9 @@
 
 ### Latest Medium Story 📚 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Using GeoPandas for analysis of geographic datasets](https://jluis-pcardenas.medium.com/using-geopandas-for-analysis-of-geographic-datasets-c151f63425ef?source=rss-36235c942fa9------2)
+- [Algorithmic problem evaluator using AWS Lambda](https://jluis-pcardenas.medium.com/algorithmic-problem-evaluator-using-aws-lambda-ec039dad2d7d?source=rss-36235c942fa9------2)
 - [CodeExpert](https://jluis-pcardenas.medium.com/codeexpert-7780db40d760?source=rss-36235c942fa9------2)
 - [Javascript Bot for Twitter](https://jluis-pcardenas.medium.com/javascript-bot-for-twitter-b5b744788f09?source=rss-36235c942fa9------2)
 - [Como llegar a Platzi con pgRouting](https://jluis-pcardenas.medium.com/como-llegar-a-platzi-con-pgrouting-5e073717f0f?source=rss-36235c942fa9------2)
-- [Wolfram shows us that our universe is … a simulation?](https://jluis-pcardenas.medium.com/wolfram-shows-us-that-our-universe-is-a-simulation-8425d8232a9c?source=rss-36235c942fa9------2)
-- [Dibujando un Tesseracto en Javascript](https://jluis-pcardenas.medium.com/dibujando-un-tesseracto-en-javascript-3d0b712860eb?source=rss-36235c942fa9------2)
 <!-- MEDIUM-STORY-LIST:END -->
