@@ -1,20 +1,42 @@
 # Jose Luis Cardenas 👋
 
-<em> Software Developer / Data Scientist, passionate about technology and Chess ♘.</em>
+<em>Software Engineer | Cloud & ML Specialist | Data Architect</em>
+
+**Head of Research and Development**  
+
+Tech leader passionate about transforming complex business challenges into measurable results. My approach combines strategic vision with technical excellence, consistently leading agile teams to deliver high-impact projects on time and within budget.
+
+**I specialize in:**
+- 🏗️ Designing robust data analysis architectures that have increased operational efficiency by up to 30%
+- ☁️ Developing scalable cloud solutions for diverse web and mobile applications  
+- 🤖 Implementing advanced AI/ML technologies to automate critical processes and drive data-informed decisions
+
+## AWS Certifications 🏆
+- **AWS Certified Data Engineer – Associate** (Aug 2024 - Aug 2027)
+- **AWS Certified Machine Learning – Specialty** (Jun 2023 - Jun 2026)  
+- **AWS Certified Solutions Architect – Associate**
+- **Scrum Master Certified**
 
 <a href="https://www.linkedin.com/in/jose-luis-cardenas-54366983"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>    <a href="https://leetcode.com/user6694X/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>     <a href="mailto:jluispcardenas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
-## Tech ⌨
-- Python, Django  <img alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-- Knowledge in Hive, Athena and Big Data workflows <img alt="AWS" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-- Linux, AWS and Docker  <img alt="AWS" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-- PHP, Laravel  <img alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-- Mobile Development, Java Android, React Native <img alt="Android" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-- Javascript and NodeJs <img alt="Javascript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-- Front-End React, VUE  <img alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-- SQL and Relational Databases  <img alt="Postgres" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-- MongoDB, Redis <img alt="Redis" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
+## Technical Expertise ⌨
+
+### Data & Analytics
+- **Big Data**: PySpark, DataBricks, AWS Athena, Redshift <img alt="AWS" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+- **Databases**: HBase, PostgreSQL, MongoDB, MySQL <img alt="Postgres" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
+### Cloud & Infrastructure  
+- **AWS** (Advanced), Google Cloud <img alt="AWS" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+- **Containers**: Docker, Kubernetes 
+
+### Programming Languages
+- **Python**, JavaScript, Java, PHP <img alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img alt="Javascript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+### Web & Mobile Development
+- **Backend**: Django, Laravel
+- **Frontend**: React, Vue <img alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+- **Mobile**: Android, React Native <img alt="Android" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 
 
 ### Latest Medium Story 📚 
